@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "156543943242",
+    "project_id": "stylistapp-c4100",
+    "storage_bucket": "stylistapp-c4100.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156543943242:android:debd90a72a0486c65edcb3",
+        "android_client_info": {
+          "package_name": "com.example.stylist_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBimP0LrmUyncStL3Qhdpv0F-hKxQNdawM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
